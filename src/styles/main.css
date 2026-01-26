@@ -12,3 +12,8 @@ p {
     font-size: 18px;
     color: brown;
 }
+
+a {
+    text-decoration: none;
+    color: chartreuse;
+}
